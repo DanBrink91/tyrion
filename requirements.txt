@@ -1,0 +1,4 @@
+-e git+https://github.com/django/django.git#egg=Django-dev
+argparse==1.2.1
+psycopg2==2.5.1
+wsgiref==0.1.2
